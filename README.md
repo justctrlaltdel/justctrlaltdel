@@ -1,5 +1,6 @@
+whoami –
 - 🙋🏽‍♀️ Hi, I’m @justctrlaltdel
-- 👀 I’m currently seeking an Apprenticeship. I am interested in working under the umberella of SecDevOps or as CyberSecurity Analyst. However, I'm open to new possilbites. 
+- 👀  I am interested in working under the umberella of SecDevOps or as CyberSecurity Analyst. However, I'm open to new possilbites within the Realm. 
 - 🌱 My newly learned skills are AWS, Azure and Python ...
 - 📫 How to reach me e-mail or via LinkedIn (https://www.linkedin.com/in/tkeyahnichols/) 
 
