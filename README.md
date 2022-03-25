@@ -1,5 +1,5 @@
 - 🙋🏽‍♀️ Hi, I’m @justctrlaltdel
-- 👀 I’m currently interested in being SecDevOps or CyberSecurity Analyst.
+- 👀 I’m currently seeking an Apprenticeship. I am interested in working under the umberella of SecDevOps or CyberSecurity Analyst. However, I'm open to new possilbites. 
 - 🌱 I’m currently learning about AWS, Azure and Python ...
 - 📫 How to reach me e-mail or via LinkedIn (https://www.linkedin.com/in/tkeyahnichols/) 
 
