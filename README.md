@@ -1,6 +1,6 @@
 whoami –
 - 🙋🏽‍♀️ Hi, I’m @justctrlaltdel
-- 👀  My goal is to work in the realm of SecDevOps, Security Engineer or as CyberSecurity Analyst. However, I'm open to new possilbites within the field. 
+- 👀  My goal is to work in the realm of DevOps, Security Engineer, or as CyberSecurity Analyst. However, I'm open to new possilbites within the field that aligns with my purpose. 
 - 🌱 I'm currently learning all things cloud AWS, Azure and how to code Python ...
 - 📫 How to reach me e-mail or via LinkedIn (https://www.linkedin.com/in/tkeyahnichols/) 
 
